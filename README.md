@@ -1,16 +1,21 @@
-## Hi there 👋
+Olá! 👋 Seja bem-vindo(a) ao meu perfil!
+👨‍💻 Sobre mim
+🔭 Atualmente estou trabalhando em [seu projeto ou área de atuação]
+🌱 Atualmente estou aprendendo [tecnologias ou habilidades]
+👯 Estou aberto(a) a colaborar em projetos interessantes e inovadores
+🤔 Estou buscando aprimorar meus conhecimentos em [área de interesse]
+💬 Pode falar comigo sobre programação, tecnologia e desenvolvimento
+📫 Como entrar em contato: [seu e-mail ou rede social]
+😄 Pronomes: [seus pronomes]
+⚡ Curiosidade: [uma curiosidade sobre você]
+🛠️ Tecnologias e ferramentas
+💻 Linguagens: [JavaScript, Python, Java, C#, etc.]
+🌐 Desenvolvimento Web: [HTML, CSS, React, Node.js, etc.]
+🗄️ Banco de dados: [MySQL, PostgreSQL, MongoDB, etc.]
+🔧 Ferramentas: Git, GitHub, VS Code, Docker, etc.
+📊 GitHub
 
-<!--
-**brandao395/brandao395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou sempre buscando aprender, criar novos projetos e evoluir como desenvolvedor(a). 🚀
 
-Here are some ideas to get you started:
+⭐ Obrigado pela visita ao meu perfil!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
