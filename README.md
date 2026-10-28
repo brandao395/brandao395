@@ -25,9 +25,12 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brandao395/brandao395/main/profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de Contribuições" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brandao395/brandao395/pacman-output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandao395/brandao395/pacman-output/github-snake.svg">
+    <img alt="Animação da Cobra" src="https://raw.githubusercontent.com/brandao395/brandao395/pacman-output/github-snake.svg">
+  </picture>
 </p>
-
 ---
 
 ## 👨‍💻 Sobre mim
