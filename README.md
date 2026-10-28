@@ -24,11 +24,9 @@
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brandao395/brandao395/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brandao395/brandao395/pacman-output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições estilo Pac-Man" src="https://raw.githubusercontent.com/brandao395/brandao395/pacman-output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brandao395/brandao395/main/profile-3d-contrib/profile-night-view.svg" alt="Gráfico 3D de Contribuições" />
+</p>
 
 ---
 
