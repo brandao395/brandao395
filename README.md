@@ -20,10 +20,7 @@
   -->
 </p>
 
-<p align="center">
-  <i>"Imagination is more important than knowledge."</i><br>
-  — Albert Einstein
-</p>
+
 
 ---
 
@@ -73,20 +70,10 @@ Gosto de construir soluções práticas e aprofundar meus conhecimentos técnico
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=brandao395&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brandao395&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 ---
 
-## 💬 Filosofia
 
-> "Aprendo construindo: cada projeto é uma chance de melhorar e transformar ideias em soluções reais."
-
----
 
 <p align="center">
   ⭐ Obrigado por visitar meu perfil!<br>
